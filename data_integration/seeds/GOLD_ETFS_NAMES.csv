@@ -1,22 +1,23 @@
-﻿Ticker;Ticker_name
-GLD;SPDR Gold Shares
-IAU;iShares Gold Trust
-SGOL;abrdn Physical Gold Shares ETF
-GLDM;SPDR Gold MiniShares Trust
-AAAU;Goldman Sachs Physical Gold ETF
-OUNZ;VanEck Merk Gold Trust
-BAR;GraniteShares Gold Trust
-IAUM;iShares Gold Trust Micro ETF of Benef Interest
-UGL;ProShares Ultra Gold
-GLL;ProShares UltraShort Gold
-IGLD;FT Vest Gold Strategy Target Income ETF
-BGLD;FT Vest Gold Strategy Quarterly Buffer ETF
-DBP;Invesco DB Precious Metals Fund
-IAUF;iShares Gold Strategy ETF
-DGP;DB Gold Double Long Exchange Traded Notes
-DZZ;DB Gold Double Short Exchange Traded Notes
-FGDL;Franklin Responsibly Sourced Gold ETF
-DGZ;DB Gold Short Exchange Traded Notes
-DOW;Dow Jones Industrial Average
-SP500;S&P 500
+﻿Ticker;Ticker_name
+GLD;SPDR Gold Shares
+IAU;iShares Gold Trust
+SGOL;abrdn Physical Gold Shares ETF
+GLDM;SPDR Gold MiniShares Trust
+AAAU;Goldman Sachs Physical Gold ETF
+OUNZ;VanEck Merk Gold Trust
+BAR;GraniteShares Gold Trust
+IAUM;iShares Gold Trust Micro ETF of Benef Interest
+UGL;ProShares Ultra Gold
+GLL;ProShares UltraShort Gold
+IGLD;FT Vest Gold Strategy Target Income ETF
+BGLD;FT Vest Gold Strategy Quarterly Buffer ETF
+DBP;Invesco DB Precious Metals Fund
+IAUF;iShares Gold Strategy ETF
+DGP;DB Gold Double Long Exchange Traded Notes
+DZZ;DB Gold Double Short Exchange Traded Notes
+FGDL;Franklin Responsibly Sourced Gold ETF
+DGZ;DB Gold Short Exchange Traded Notes
+DOW;Dow Jones Industrial Average
+SP500;S&P 500
 USD;US Dollar index
+BTC;Bitcoin USD

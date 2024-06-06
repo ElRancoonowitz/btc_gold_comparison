@@ -1,0 +1,51 @@
+﻿Ticker;Ticker_name;Category
+GLD;SPDR Gold Shares;Gold
+IAU;iShares Gold Trust;Gold
+SGOL;abrdn Physical Gold Shares ETF;Gold
+GLDM;SPDR Gold MiniShares Trust;Gold
+AAAU;Goldman Sachs Physical Gold ETF;Gold
+OUNZ;VanEck Merk Gold Trust;Gold
+BAR;GraniteShares Gold Trust;Gold
+IAUM;iShares Gold Trust Micro ETF of Benef Interest;Gold
+UGL;ProShares Ultra Gold;Gold
+GLL;ProShares UltraShort Gold;Gold
+IGLD;FT Vest Gold Strategy Target Income ETF;Gold
+BGLD;FT Vest Gold Strategy Quarterly Buffer ETF;Gold
+DBP;Invesco DB Precious Metals Fund;Gold
+IAUF;iShares Gold Strategy ETF;Gold
+DGP;DB Gold Double Long Exchange Traded Notes;Gold
+DZZ;DB Gold Double Short Exchange Traded Notes;Gold
+FGDL;Franklin Responsibly Sourced Gold ETF;Gold
+DGZ;DB Gold Short Exchange Traded Notes;Gold
+^DJI;Dow Jones Industrial Average;Index
+^GSPC;S&P 500;Index
+DX-Y.NYB;US Dollar index;FX
+BTC-USD;Bitcoin USD;Crypto
+GBTC;Grayscale Bitcoin Trust;BTC ETF
+IBIT;IShares Bitcoin Trust Registered;BTC ETF
+FBTC;Fidelity Wise Origin Bitcoin Fund;BTC ETF
+ARKB;ARK 21Shares Bitcoin ETF;BTC ETF
+BITB;Bitwise Bitcoin ETF Trust;BTC ETF
+BITO;ProShares Bitcoin Strategy ETF;BTC ETF
+ARKW;ARK Next Generation Internet ETF;BTC ETF
+BITX;2x Bitcoin Strategy ETF;BTC ETF
+HODL;VanEck Bitcoin Trust;BTC ETF
+BRRR;Valkyrie Bitcoin Fund;BTC ETF
+BTCO;Invesco Galaxy Bitcoin ETF;BTC ETF
+EZBC;Franklin Bitcoin ETF;BTC ETF
+BITQ;Bitwise Crypto Industry Innovators ETF;BTC ETF
+WGMI;Valkyrie Bitcoin Miners ETF;BTC ETF
+BTCW;WisdomTree Bitcoin Fund;BTC ETF
+BTF;Valkyrie Bitcoin and Ether Strategy ETF;BTC ETF
+STCE;Schwab Crypto Thematic ETF;BTC ETF
+BITS;Global X Blockchain & Bitcoin Strategy ETF;BTC ETF
+SPBC;Simplify US Equity PLUS GBTC ETF;BTC ETF
+ARKA;ARK 21Shares Active Bitcoin Futures Strategy ETF;BTC ETF
+DEFI;Hashdex Bitcoin ETF;BTC ETF
+BTOP;Bitwise Bitcoin and Ether Equal Weight Strategy ETF;BTC ETF
+SATO;Invesco Alerian Galaxy Crypto Economy ETF;BTC ETF
+BETH;ProShares Bitcoin & Ether Market Cap Weight Strategy ETF;BTC ETF
+BETE;ProShares Bitcoin & Ether Equal Weight Strategy ETF;BTC ETF
+BLKC;Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF;BTC ETF
+BITC;Bitwise Bitcoin Strategy Optimum Roll ETF;BTC ETF
+BITW;Bitwise 10 Crypto Index Fund;BTC ETF
