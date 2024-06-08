@@ -15,6 +15,8 @@ SELECT
     b.[volume] AS [Volume],
     b.[previous_close_value] AS [ClosePreviousDay],
     b.[perc_diff_close] AS [PercentageDiff_ClosePreviousDay],
+	b.[previous_volume_value] AS [VolumePreviousDay],
+    b.[perc_diff_volume] AS [PercentageDiff_VolumePreviousDay],
     c.[CategoryKey],
     c.[CategoryName] AS [Category],
     CURRENT_TIMESTAMP AS [LoadTs]
@@ -23,10 +25,3 @@ FROM [intermediate].[int_ticker_figures_perc_diff] b
 LEFT JOIN [mart].[dim_date] d ON b.[date] = d.[Date]
 LEFT JOIN [mart].[dim_ticker] t ON b.[ticker] = t.[TickerId]
 LEFT JOIN [mart].[dim_category] c ON b.[category] = c.[CategoryName];
-
-
-
-select * from mart.fct_daily_ticker_snapshots
-
-
-select * from intermediate.int_ticker_figures_perc_diff
